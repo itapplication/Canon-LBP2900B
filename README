@@ -1,4 +1,7 @@
-This is a driver for Canon CAPT-based printers (LBP-***)
+This is a driver for Canon CAPT-based printers (LBP2900B & LBP-***)
+
+# Tested and working in Debian 10 (Buster) 
+
 based on several reverse engineering attempts. This is
 currently in an early alpha stage. Use at your own risk.
 
