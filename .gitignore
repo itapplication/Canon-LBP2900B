@@ -1,0 +1,17 @@
+Makefile
+Makefile.in
+.libs/
+.deps/
+*.o
+*.raster
+*.bin
+aclocal.m4
+autom4te.cache/
+config.log
+config.status
+configure
+compile
+depcomp
+install-sh
+missing
+src/rastertocapt
